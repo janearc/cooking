@@ -12,7 +12,7 @@ when the oil is good and hot (about 30ml per box of tofu), begin adding the tofu
 - **rosemary** to taste
 - **coriander** to taste
 - coarse **salt**, to taste (I just pinch this with my hands, and I use Maldon salt because I like it)
-- **black pepper** (I grew up with [tellicherry pepper](http://www.seriouseats.com/2012/07/taste-test-black-pepper-what-are-differences-in-varieties.html), and prefer it))
+- **black pepper** (I grew up with [tellicherry pepper](http://www.seriouseats.com/2012/07/taste-test-black-pepper-what-are-differences-in-varieties.html), and prefer it)
 - **white pepper** to taste
 
 more "tossing" leads to fluffier tofu, and the more drained the tofu is before hand, the fluffier and less runny it is, as well as the less splatter you get from water in your oil (which should be very hot). depending on how you like your "eggs", more runny may be desirable.
