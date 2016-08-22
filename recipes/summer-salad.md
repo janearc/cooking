@@ -1,13 +1,13 @@
 summer salad
 --
-Arugula
-Jicama
-Strawberry
-Cherry tomatoes
-Hemp hearts or quinoa for texture/body/nutritional value
-Candied walnuts (lightly, and not “spiced”)
-Vidalia onion or shallots, sliced paper thin
-Avocado
+- **Arugula**
+- **Jicama**
+- **Strawberry**
+- **Cherry tomatoes**
+- **Hemp hearts** or **quinoa** for texture/body/nutritional value
+- **Candied walnuts** (lightly, and not “spiced”)
+- **Vidalia onion** or **shallots**, sliced paper thin
+- **Avocado**
 
 Dice avocado, strawberry, and jicama; set aside.
 
