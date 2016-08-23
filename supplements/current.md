@@ -10,3 +10,4 @@ supplements
 * milk thistle extract
 * glucosamine & methylsulfonymethane (MSM)
 * *femdophilus* brand acidophilus
+* aspirin (83mg/day)
