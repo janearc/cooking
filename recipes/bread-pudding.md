@@ -13,14 +13,14 @@ pudding
 ---
 - 4 very ripe bananas
 - 2 whole cans whole-fat coconut milk
-- 1 whole 16oz loaf vegan bread
-- 1/2 cup dried fruit
+- 1 whole 16oz loaf vegan bread, or 16oz total from various loaves
+- 1/2 cup dried fruit including raisins
 - 1 peach, diced fresh (optional)
 - 2 tsp flaxseed meal (stiffener)
-- cinnamon to taste
-- allspice to taste
-- nutmeg to taste
-- almond milk
+- cinnamon to taste (~4tsp)
+- allspice to taste (~1tsp)
+- nutmeg to taste (1/2tsp)
+- almond milk (~4tbsp, 1 per banana)
 - coconut oil (for the pan)
 - 4 tsp vanilla extract
 - 4 tbsp maple syrup
@@ -28,20 +28,14 @@ pudding
 
 - one 9x13 baking pan
 
-If you are using a stoneware pan, heat oven to 375F, if pyrex, 335F.
+If you are using a stoneware pan, heat oven to 375°F, if pyrex, 335°F.
 
-Bread should be stale (the reason I started working on this recipe is I
-didn't want to waste the odds and ends of loaves of bread that had gone stale);
-use a serrated knife and cut it into rough bite-size-ish chunks, set aside in
+Bread should be stale. Use a serrated knife and cut it into rough bite-size-ish chunks, set aside in
 a bowl. Smaller (diced) is better because it allows for better distribution in the pan. Aim for 1cm cubes, but uniformity is not required.
 
-Mash the bananas with a fork (you should have 1.5-2 cups worth, but this is
-approximate) and beat them until they are pretty frothy. This should be easier by adding a couple tablespoons of almond milk to each banana (you may cheat by using an immersion blender). This is the binding
-ingredient for the pudding. Combine this in a larger bowl with the coconut milk
-and continue to beat with a fork, adding cinnamon, nutmeg, allspice, and vanilla extract. Add maple syrup to this, and
-continue to stir. Add flaxseed meal. At this point, you should have a pretty simple pudding or custard, and it should resemble other things if you have prepared a custard or pudding before.
+Mash the bananas with a fork (you should have 1.5-2 cups worth, but this is approximate) and beat them until they are pretty frothy. This should be easier by adding a couple tablespoons of almond milk to each banana (you may cheat by using an immersion blender). This is the binding ingredient for the pudding. Combine this in a larger bowl with the coconut milk and continue to beat with a fork, adding cinnamon, nutmeg, allspice, and vanilla extract. Add maple syrup to this, and continue to stir. Add flaxseed meal. At this point, you should have a pretty simple pudding or custard, and it should resemble other things if you have prepared a custard or pudding before.
 
-Begin adding the bread cubes, diced peach, and dried fruit to the pudding. Stir with a spatula in a large metal or glass mixing bowl (I use a 31cm bowl for a 9x13 pan). Fold the bread in to the pudding, let it sit for a few minutes, stir again, basically letting the bread absorb the pudding. Eventually there shouldn't be much pudding left sitting in the bottom of the bowl, and it should appear as a uniform mass of "puddingy bread."
+Begin adding the bread cubes, diced peach, walnuts and dried fruit to the pudding. Stir with a spatula in a large metal or glass mixing bowl (I use a 31cm bowl for a 9x13 pan). Fold the bread in to the pudding, let it sit for a few minutes, stir again, basically letting the bread absorb the pudding. Eventually there shouldn't be much pudding left sitting in the bottom of the bowl, and it should appear as a uniform mass of "puddingy bread."
 
 Grease the pan lightly using coconut oil and your fingers – it should fit pretty neatly into a 9x13 pan.
 
