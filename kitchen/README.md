@@ -33,6 +33,15 @@ perishables
 - almond milk (both dark chocolate and vanilla)
 - almond butter (maple for toast and vanilla for dessert and snacks)
 
+ingredients in the fridge
+---
+It's frequently a pain in the ass to find somewhere to order delivery from, or to find a place to go out to dinner with someone. Cooking, too, can be a pain. But having a bunch of things in the fridge that are pre-prepared and resist spoilage reduce the time-to-cooked for a meal meaning you can instead cook a meal for yourself or others much more quickly by virtue of having ingredients ready to go. Consider suggesting to people to simply bring a vegetable ("Hey, come over and bring 3-4 baby bok choi and we'll make dinner!"). By doing the prep ahead of time – I tend to prep the day I shop, so on weekends – I reduce a 1-2 hour meal prep to 20-30 minutes, which is less time than delivery or going out and tastes better besides.
+
+- cubed sweet potatoes (which can be frozen more or less indefinitely)
+- sliced shallots
+- sliced red onion
+- soyrizo
+
 portable rations
 ---
 Sometimes it's hard to know when you'll be able to eat because you are going
