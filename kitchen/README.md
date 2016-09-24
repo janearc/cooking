@@ -12,6 +12,7 @@ specifically; many, but not all vegans feel a core tenet of veganism is
 reducing wastage and personal consumption).
 
 - coconut oil
+- sesame oil (for stir-frying, for fried rice)
 - olive oil: a rich, eat-with-bread kind, and a cook-with kind
 - dried fruits (I keep cherries, cranberries, raisins, coconut meat, sometimes pineapple)
 - tofu of various consistency (the kind you get in a box and keep on the shelf)
@@ -32,6 +33,7 @@ perishables
 - avocados
 - almond milk (both dark chocolate and vanilla)
 - almond butter (maple for toast and vanilla for dessert and snacks)
+- peanut butter
 
 ingredients in the fridge
 ---
@@ -41,6 +43,8 @@ It's frequently a pain in the ass to find somewhere to order delivery from, or t
 - sliced shallots
 - sliced red onion
 - soyrizo
+
+When a loaf of bread is pretty stale I cube it and put it in a bag I use specifically for odds and ends to make bread pudding with, in the freezer.
 
 portable rations
 ---
