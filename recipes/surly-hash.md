@@ -15,4 +15,4 @@ To season the sweet potatoes, use:
 
 Add the kale to the sweet potatoes, and let the kale wilt, but only just. Stir the kale continually, and add a touch of salt (yes, more). The kale needs to wilt, but not "cook." The idea is for the kale to wilt and to pick up some of the flavour and the coconut oil from the potatoes, but not for it to be wrecked in the wok by the heat.
 
-This shouldn't even take two minutes. Pull the kale out quickly and let it cool briefly, and serve immediately.
+This shouldn't even take two minutes. Pull the admixture out quickly and let it cool briefly, and serve immediately.
