@@ -8,6 +8,8 @@ Depending on how and where you get your pumpkin your local retailer may have "pi
 
 The pumpkin halves should be placed on a lightly oiled (use coconut or olive oil) piece of aluminium foil and about 1/4 to 1/2" of water in the cookie sheet in the oven (that is, the pumpkins should be immersed fully). Cook at 325°F or so for about an hour. You will know they are done when you can press gently with a fork and leave a full impression of the fork on the outside of the pumpkin.
 
+Scoop the flesh out of the pumpkin halves with a spoon, throwing the skin into the compost bin. Use a potato masher, immersion blender, or food processor to make the pulp less "stringy" (but it doesn't have to be perfect).
+
 pumpkin seeds
 ---
 Pumpkin seeds are a reasonably nutritious (containing both fat and magnesium) snack, and are worth keeping around, but can be a pain to clean. The best way is to separate the flesh from the pumpkin while preparing them for cooking. They are all attached to one big "organ" the way a cantaloupe or bell pepper are, and generally can be pulled off quickly. The "slime" or orange stuff that makes them excessively slimy and pumpkiny can be removed by rinsing them with water and then straining them through e.g., cheese cloth or a paper towel.
