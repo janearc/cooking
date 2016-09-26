@@ -1,6 +1,6 @@
 the fall feast bread
 ---
-Doe, Kara, and Jane set out to make pumpkin bread one day, and this was the first time Jane had made a vegan bread, and the first time they had made a vegan pumpkin anything. It turned out pretty well.
+Doe, Kara, and Jane set out to make pumpkin bread one day, and this was the first time Jane had made a vegan bread, and the first time they had made a vegan pumpkin anything. It turned out pretty well. Essentially, pumpkin bread is mostly "banana bread" only with pumpkin instead of banana. It should seem familiar if you've made banana bread.
 
 Ingredients:
 - 1/4 c dried cherries
