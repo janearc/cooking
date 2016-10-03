@@ -12,6 +12,7 @@ Combine in a saucepan over low heat, stirring to create a sort of custard:
 - 3/4 tsp allspice
 - 1/4 tsp clove
 - 4 T flaxseed meal (stiffener)
+- 3 T bourbon
 - 2 cups **pumpkin** pulp as described elsewhere in this repository
 
 Place in a large bowl separately:
