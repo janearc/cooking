@@ -1,5 +1,7 @@
 the fall feast bread
 ---
+**Note**: This is still being worked out.
+
 This bread began as a research project between Doe, Kara, and Jane; this was the first time Jane had made a vegan bread, and the first time they had made a vegan pumpkin anything. It turned out pretty well. Essentially, pumpkin bread is mostly "banana bread" only with pumpkin instead of banana. It should seem familiar if you've made banana bread.
 
 Ingredients:
