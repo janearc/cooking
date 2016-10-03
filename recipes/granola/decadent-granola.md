@@ -21,4 +21,4 @@ wet ingredients
 
 Pre-heat oven to 350°F & oil pan lightly. place wet ingredients in a small sauce pan, and stir lightly. it will take effort to get the marzipan to dissolve into the syrup mixture, but it will eventually.
 
-Combine dry ingredients. Pour the wet ingredients evenly over the dry ingredients, and stir judiciously, making sure they are evenly distributed. Place on cookie sheet and bake 30 minutes, more if the granola is not crispy/cooked enough.
+Combine dry ingredients. Pour the wet ingredients evenly over the dry ingredients, and stir judiciously, making sure they are evenly distributed. Place on cookie sheet and bake 15 minutes.
