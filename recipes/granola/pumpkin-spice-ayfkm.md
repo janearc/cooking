@@ -15,6 +15,7 @@ dry ingredients
 - 4T chia seeds
 - 1.5c rolled oats
 - .5c dried cranberries
+- .5c cashews
 
 wet ingredients
 ---
