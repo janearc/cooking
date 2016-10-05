@@ -26,6 +26,7 @@ reducing wastage and personal consumption).
 - tellicherry pepper
 - candied walnuts
 - rolled oats (because I need to make granola)
+- flour (whole wheat, white - I've used king arthur for years)
 
 perishables
 ---
@@ -43,6 +44,8 @@ It's frequently a pain in the ass to find somewhere to order delivery from, or t
 - sliced shallots
 - sliced red onion
 - soyrizo
+- earth balance butter-alike spread
+- miyoko's butter-alike spread
 
 When a loaf of bread is pretty stale I cube it and put it in a bag I use specifically for odds and ends to make bread pudding with, in the freezer.
 
