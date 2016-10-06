@@ -1,6 +1,6 @@
 bread starter
 ---
-This is mostly stolen from [minimalist baker](minimalistbaker.com), but mostly resembles what I used to use in Joy of Cooking. It's a simple bread starter. Start with:
+This is mostly stolen from [minimalist baker](http://minimalistbaker.com), but mostly resembles what I used to use in Joy of Cooking. It's a simple bread starter. Start with:
 
 - 1 packet yeast
 - 1 cup almond milk (sweetened is fine; more sugar is good for the yeast)
