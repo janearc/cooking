@@ -27,6 +27,7 @@ reducing wastage and personal consumption).
 - candied walnuts
 - rolled oats (because I need to make granola)
 - flour (whole wheat, white - I've used king arthur for years)
+- yeast (brand seems irrelevant, but use it or it goes bad)
 
 perishables
 ---
