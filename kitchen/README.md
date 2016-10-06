@@ -44,6 +44,7 @@ It's frequently a pain in the ass to find somewhere to order delivery from, or t
 - sliced shallots
 - sliced red onion
 - soyrizo
+- Daiya shreds (cheddar usually)
 - earth balance butter-alike spread
 - miyoko's butter-alike spread
 
