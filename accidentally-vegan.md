@@ -6,3 +6,5 @@ So there are things you may encounter that are accidentally vegan. That is, thin
 - shortening (this makes pie crust possible, Spectrum™ brand is made with palm oil instead of space age stuff)
 - fritos (ingredients: corn, corn oil, salt)
 - fig newtons
+- ritz brand crackers with peanut butter sandwiches
+- red vines (corn syrup, whole wheat flour, red colouring...)
