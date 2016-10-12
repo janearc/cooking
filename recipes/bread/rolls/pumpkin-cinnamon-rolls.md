@@ -17,7 +17,7 @@ Added 1tsp cinnamon, 1tsp ginger, .75tsp allspice, .25 tsp clove, .25tsp salt to
 
 Preheat oven to 350°F.
 
-Use about 1 cup of pumpkin pulp; drain off any excess liquid. Add 2T bourbon. Add .125tsp ea cinnamon, allspice, ginger to the pumpkin. Add 2T granulated sugar and 2T maple syrup to the pumpkin, stir until stiffer, but it won't be firm. Save about a tablespoon or two of this mixture for glazing the rolls.
+Use about 1 cup of pumpkin pulp; drain off any excess liquid. Add 2T bourbon. Add .125tsp ea cinnamon, allspice, ginger to the pumpkin. Add 4T granulated sugar and 2T maple syrup to the pumpkin, stir until stiffer, but it won't be firm. Save about a tablespoon or two of this mixture for glazing the rolls.
 
 Roll the dough out on a floured surface and butter it. Sprinkle it with granulated sugar and nutmeg. Apply liberal earth balance butter to both your rolled out dough and a stoneware pan (9x9 or 9x13 is fine). Apply more pumpkin to the "naked" parts of the rolls.
 
