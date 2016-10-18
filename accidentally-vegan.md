@@ -8,3 +8,4 @@ So there are things you may encounter that are accidentally vegan. That is, thin
 - fig newtons
 - ritz brand crackers with peanut butter sandwiches
 - red vines (corn syrup, whole wheat flour, red colouring...)
+- "i can't believe it's not butter" (who knew‽)
