@@ -12,7 +12,6 @@ you will need:
 - a rolling pin (my preference is a french rolling pin, mileage varies)
 - a silicone brush
 - plastic cling wrap
-- a sifter
 
 Without most of this, you will not be successful. On a hot day, you will probably not be successful. Pastry is temperamental and requires its dough to be cold or it falls apart and you cannot work with it. Understand this is part of the process, and accept this, and you will be more successful. As the above-linked recipe says, do not be afraid to return the dough to the refrigerator or freezer and return later when it is colder.
 
@@ -29,7 +28,7 @@ ingredients
 
 In a bowl, combine shortening and butter with a fork and whip/beat gently. It will get warm and this makes the job easier. However, it must be cold to be folded into the flour, so once you're done getting the shortening and butter together, put it into the fridge and let it sit half an hour.
 
-Once it's cooled a bit, take it out, and begin cutting it into the flour in a large mixing bowl with a spatula -- using the edge ("like a knife") -- and the effect you are looking for is such that it resembles crumbly dough. Vegan Baking says "coarse sand." The way this is achieved is by gradually applying a tablespoon or two at a time, and just keep folding it in, scraping the flour down into the butter.
+Once it's cooled a bit, take it out, and begin cutting it into the flour & salt in a large mixing bowl with a spatula -- using the edge ("like a knife") -- and the effect you are looking for is such that it resembles crumbly dough. Vegan Baking says "coarse sand." The way this is achieved is by gradually applying a tablespoon or two at a time, and just keep folding it in, scraping the flour down into the butter.
 
 *Don't over mix the dough.* Remember, you aren't making bread.
 
