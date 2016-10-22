@@ -21,7 +21,7 @@ dry ingredients
 wet ingredients
 ---
 - 1T dark rum (you can go with more here, it cooks off and is for flavour)
-- 1.5T pumpkin
+- 1.5T **pumpkin pulp**
 - 1.5T butter
 - .5c maple syrup
 - .5 tsp vanilla extract
