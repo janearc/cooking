@@ -1,6 +1,6 @@
 pumpkin granola
 ---
-This is a spicier, more "spiced rum" version of pumpkin spice granola. I double this recipe.
+This is a spicier, more "spiced rum" version of pumpkin spice granola. I double this recipe. If you double it, you may want to actually take it out at one point (15 minutes in, perhaps), stir it, and place it back in and let it cook another 5-ish minutes to make sure it gets cooked thoroughly – the pumpkin in it *needs to cook*.
 
 to season ("pumpkin spice")
 ---
