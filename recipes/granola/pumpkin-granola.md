@@ -26,4 +26,4 @@ wet ingredients
 - .5c maple syrup
 - .5 tsp vanilla extract
 
-combine wet ingredients separately, but thoroughly, and then fold into dry ingredients, and lay flat on cookie sheets. Bake at 350°F for 15 minutes on a lightly oiled cookie sheet and store in an airtight tupperware.
+combine wet ingredients separately, but thoroughly, and then fold into dry ingredients, and lay flat on cookie sheets. Bake at 350°F for 20 minutes on a lightly oiled cookie sheet and store in an airtight tupperware.
