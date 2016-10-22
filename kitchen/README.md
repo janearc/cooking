@@ -20,6 +20,7 @@ reducing wastage and personal consumption).
 - maldon sea salt
 - granola (I make this, it keeps for weeks, so I consider this "shelf stable")
 - vinegar: rich balsamic, and rice vinegar
+- soy sauce (primarily for stir frying and fried rice)
 - hemp hearts
 - maple syrup
 - molasses
