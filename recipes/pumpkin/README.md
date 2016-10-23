@@ -13,3 +13,7 @@ Scoop the flesh out of the pumpkin halves with a spoon, throwing the skin into t
 pumpkin seeds
 ---
 Pumpkin seeds are a reasonably nutritious (containing both fat and magnesium) snack, and are worth keeping around, but can be a pain to clean. The best way is to separate the flesh from the pumpkin while preparing them for cooking. They are all attached to one big "organ" the way a cantaloupe or bell pepper are, and generally can be pulled off quickly. The "slime" or orange stuff that makes them excessively slimy and pumpkiny can be removed by rinsing them with water and then straining them through e.g., cheese cloth or a paper towel.
+
+more pumpkin
+---
+There are some pumpkin fillings and breads in the bread/pastries directory.
