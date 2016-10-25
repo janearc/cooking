@@ -35,4 +35,8 @@ Once it's cooled a bit, take it out, and begin cutting it into the flour in a la
 
 Once it gets to the right point, where it starts looking like that crumbly cookie dough type stuff, you need to add half the cold water and booze (2T, 30ml each), and work it gently with your fingers to make a ball of it. Repeat with the remainder of the cold water and booze (2T, 30ml each, so in total you have applied 1/2c of water and 1/2c of booze). The dough will be sticky and you will possibly fear you have done something wrong because it has gone from "dough" to "goop." This is fine. Gently work it into about a 4" (10cm) ball, and wrap it in cling wrap.
 
-**At this point the dough can be placed in the freezer,** and *should* be placed there for at least an hour to cool.
+**At this point the dough can be placed in the freezer,** and *should* be placed there for at least an hour to cool. My preference is to place the dough at least overnight and to work it the following day.
+
+Working with pastry has been described by my friend Kim as "a race" – you need to keep the dough cold. Once it has warmed up and the fats have gone liquid, the game is up and the dough must be returned to the refrigerator. Accordingly, when your kitchen is quite cold (such as in the fall/winter or the middle of the night), this is an ideal time to make pastries.
+
+A trick I have learned is to let the dough ball freeze solid, and then chop it into small "blocks" with a knife, and use a rolling pin to rapidly work those back into a workable mass with the rolling pin, including the end (you *do* use a french rolling pin, right?). A fully-frozen ball of pastry dough is hard to work with but is the closest to the temperature you need.
