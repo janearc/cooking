@@ -2,7 +2,7 @@ pumpkin insomnia pasties
 ---
 I'd had a bad bout of insomnia and found myself with a surplus of hashish, some pumpkin (not enough to make bread or a pie or anything), a new knowledge of pastry dough, and a need to get to sleep.
 
-I decided to do the only logical thing: make savoury pumpkin turnovers. The recipe I describe here produces triangles and so is not explicitly a pasty (so please don't yell at me UK people, but in the US we don't really have savoury pastries).
+I decided to do the only logical thing: make savoury pumpkin cannabis turnovers. The recipe I describe here produces triangles and so is not explicitly a pasty (so please don't yell at me UK people, but in the US we don't really have savoury pastries).
 
 ingredients
 ---
