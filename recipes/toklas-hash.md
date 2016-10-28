@@ -11,7 +11,7 @@ While normally my preference in grass is for very skunky dank sour plants, this 
 
 Ingredients
 ---
-
+- 7-10 g dry and cured cannabis
 - 1/2 c (or so) each: cashews, almonds (although any nuts will work)
 - 1/2 c dried whole figs, remove stems
 - 1/2 c dried whole pitted dates
