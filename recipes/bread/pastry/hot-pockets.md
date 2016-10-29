@@ -4,7 +4,7 @@ Hot pockets, if we're honest, are pretty terrible. We like them because they are
 
 If what you're looking for is a two-minute vegan hot pocket recipe, this is not the recipe for you.
 
-This recipe can get that time down to about ten minutes, with a varying amount of preparation time (I can make twelve in about ninety minutes, which then require about thirty minutes of par-baking, which then only requires ten minutes of heating, when I make everything from scratch).
+This recipe can get that time down to about two minutes, with a varying amount of preparation time (I can make twelve in about ninety minutes, which then require about thirty minutes of par-baking, which then only requires two minutes of heating, when I make everything from scratch).
 
 Equipment
 ---
@@ -42,4 +42,4 @@ There is no yeast in this recipe, and there is no animal fat, so parbaking is a 
 
 To parbake this recipe, you would bake at 375°F for 30 minutes, and remove immediately. You would want to have an ice sheet or cold pack nearby (Target sells things like this for about $2.99). This allows you to cool the item very rapidly so that it can be placed in the freezer without spoilage and condensation.
 
-Give it a couple minutes to cool, and then freeze it wrapped in cling-wrap, more or less indefinitely. When you wish to bake it the rest of the way, heat it at 375°F for 10 more minutes. It should "reheat" just fine. You may glaze with butter-alike as above.
+It will take about twenty minutes to cool completely. Freeze it wrapped in aluminium foil and cling-wrap, and it will keep more or less indefinitely. When you wish to cook it the rest of the way, you should place it in the microwave for two minutes, covered in a paper towel. Put a few droplets of water (wet your hand, wiggle your fingers on top of the paper towel) on the towel. When it emerges from the microwave, it should be fully-cooked/heated.
