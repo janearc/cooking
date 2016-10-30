@@ -10,11 +10,12 @@ pudding
 - 4 T flaxseed meal 
 - 4 tsp cinnamon
 - 1 tsp allspice
+- 1 tsp clove
 - .5 tsp nutmeg
 - .5 c maple syrup
 - 4 T rum
 
-
+Additionally, you will need:
 - 1 whole 16oz loaf sweet batard
 - maraschino cherries
 
