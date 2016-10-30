@@ -39,7 +39,7 @@ Begin adding the bread cubes, diced peach, walnuts and dried fruit to the puddin
 
 Grease the pan lightly using coconut oil and your fingers – it should fit pretty neatly into a 9x13 pan.
 
-Add pudding/bread to the pan using a spatula to distribute evenly. Bake for 32 minutes at 375°F for stoneware (335°F for pyrex), take out, and apply the **glaze** described below; replace in oven, and bake an additional 12 minutes at 400°F (360°F for pyrex) to put a nice crust on top. It's a pudding, so it's going to be moist. It will be wibbly-wobbly, but in generally, if you put a knife in and pull it out, it shouldn't come out covered in puddingy stuff (it will have peach on it), kind of like how you check for the doneness of brownies. Because there are no eggs in this, there is no harm in eating it a little under-done, and if you prefer it a little more dry, you can cook it a little longer.
+Add pudding/bread to the pan using a spatula to distribute evenly. Bake for 32 minutes at 375°F for stoneware (335°F for pyrex), take out, and apply the **glaze** described below; replace in oven, and bake an additional 17 minutes at 400°F (360°F for pyrex) to put a nice crust on top. It's a pudding, so it's going to be moist. It will be wibbly-wobbly, but in generally, if you put a knife in and pull it out, it shouldn't come out covered in puddingy stuff (it will have peach on it), kind of like how you check for the doneness of brownies. Because there are no eggs in this, there is no harm in eating it a little under-done, and if you prefer it a little more dry, you can cook it a little longer.
 
 glaze
 ---
