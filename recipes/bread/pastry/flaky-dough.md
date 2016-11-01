@@ -11,6 +11,7 @@ you will need:
 - a silicone pastry rolling mat (optional but useful)
 - a rolling pin (my preference is a french rolling pin, mileage varies)
 - a silicone brush
+- a sifter
 - plastic cling wrap
 
 Without most of this, you will not be successful. On a hot day, you will probably not be successful. Pastry is temperamental and requires its dough to be cold or it falls apart and you cannot work with it. Understand this is part of the process, and accept this, and you will be more successful. As the above-linked recipe says, do not be afraid to return the dough to the refrigerator or freezer and return later when it is colder.
@@ -28,9 +29,9 @@ ingredients
 
 In a bowl, combine shortening and butter with a fork and whip/beat gently. It will get warm and this makes the job easier. However, it must be cold to be folded into the flour, so once you're done getting the shortening and butter together, put it into the fridge and let it sit half an hour.
 
-Once it's cooled a bit, take it out, and begin cutting it into the flour & salt in a large mixing bowl with a spatula -- using the edge ("like a knife") -- and the effect you are looking for is such that it resembles crumbly dough. Vegan Baking says "coarse sand." The way this is achieved is by gradually applying a tablespoon or two at a time, and just keep folding it in, scraping the flour down into the butter.
+In a separate bowl, sift together the flour and salt. Once the butter and shortening have cooled, take it out, and begin cutting it into the flour & salt with a spatula -- using the edge ("like a knife") -- and the effect you are looking for is such that it resembles crumbly dough. Vegan Baking says "coarse sand." The way this is achieved is by gradually applying a tablespoon or two at a time, and just keep folding it in, scraping the flour down into the butter.
 
-*Don't over mix the dough.* Remember, you aren't making bread.
+*Don't over mix the dough.* Remember, you aren't making leavened bread.
 
 Once it gets to the right point, where it starts looking like that crumbly cookie dough type stuff, you need to add half the cold water and booze (2T, 30ml each), and work it gently with your fingers to make a ball of it. Repeat with the remainder of the cold water and booze (2T, 30ml each, so in total you have applied 1/2c of water and 1/2c of booze). The dough will be sticky and you will possibly fear you have done something wrong because it has gone from "dough" to "goop." This is fine. Gently work it into about a 4" (10cm) ball, and wrap it in cling wrap.
 
@@ -39,3 +40,7 @@ Once it gets to the right point, where it starts looking like that crumbly cooki
 Working with pastry has been described by my friend Kim as "a race" – you need to keep the dough cold. Once it has warmed up and the fats have gone liquid, the game is up and the dough must be returned to the refrigerator. Accordingly, when your kitchen is quite cold (such as in the fall/winter or the middle of the night), this is an ideal time to make pastries.
 
 A trick I have learned is to let the dough ball freeze solid, and then chop it into small "blocks" with a knife, and use a rolling pin to rapidly work those back into a workable mass with the rolling pin, including the end (you *do* use a french rolling pin, right?). A fully-frozen ball of pastry dough is hard to work with but is the closest to the temperature you need.
+
+notes on doubling
+---
+I have doubled and quadrupled this recipe without much issue. The problem this presents is that the resulting ball of dough becomes too large to work with two hands, or in the bowl you are working. You eventually have to break it back down into smaller balls of dough. Accordingly, while you can "make a whole lot of this recipe at once," it makes sense to do it in stages; prepare the butter/shortening all at once, and then cut it into the flour into stages so that you create a 2.5-cup ball of flour (rather than a 5-cup ball). Note that ten cups of flour (quadruple this recipe) is nearly five pounds, or almost an entire bag (and is an entire tub of earth balance butter). It is unmanagable in terms of being able to fold, cut, roll out, etc. The recipe *works*, but needs to be handled carefully.
