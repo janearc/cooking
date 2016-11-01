@@ -22,7 +22,7 @@ ingredients
 - 2.5 c flour
 - 1 tsp salt
 - .75 c butter (I've used earth balance)
-- .5 c shortening (I've used Spectrum organic)
+- .75 c shortening (I've used Spectrum organic)
 - .25 c cold water
 - .25 c cold spirits (bourbon, vodka, rum, &hellip;)
 
