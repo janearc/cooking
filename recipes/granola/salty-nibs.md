@@ -15,3 +15,7 @@ ingredients:
 - .5c raisins
 
 combined all ingredients in a large bowl, stirred until uniform, placed on a cookie sheet and baked at 350°F for 15 minutes. like the other granola recipes here, this will keep longer than it will take you to eat it if you store it in an airtight container on the shelf.
+
+note on doubling
+---
+when i double this recipe, i add more butter, 3-4 tablespoons of bourbon, and i use a single cookie sheet instead of two. you have to trust that it isn't burning, and let it cook a little longer (because it's twice as deep). when i put it on the cookie sheet, i dust it lightly with granulated sugar (on the top). it's a very light accent, but it makes this much more of a "treat" than "breakfast." it has a very "holiday" tone to it between the bourbon, additional butter, and the sugar dusting to it; it's kind of cookies in a cereal bowl.
