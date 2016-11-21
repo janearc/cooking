@@ -6,6 +6,8 @@ I had begun with the soyrizo & daiya pastries, which turned out well. I had been
 
 Essentially, this is a casserole, cooked in a pumpkin; it's a kind of vegan engastration.
 
+Four servings. This paired very well with a [boochcraft](http://www.boochcraft.com/flavors/) watermelon/mint/chili high-alcohol content kombucha, which was refreshing and offset the robust flavour of the soyrizo and pumpkin.
+
 Ingredients:
 ---
 - 2 large pie pumpkins (6-inch diameter or so)
@@ -23,11 +25,9 @@ Ingredients:
 
 Empty the soyrizo and daiya into a large bowl. Remove the seeds and meniscus (the white part) from the peppers and place into the bowl with the soyrizo. Mince the shallots (leaving a couple larger pieces if you like, for accent or taste), and add to the bowl. Chop the green onions finely, leaving aside two. Place the chopped onions in the bowl.
 
-Cut one of the potatoes coarsely, and set aside. This will bake in the pumpkins.
+Dice the potatoes, and toss in a skillet with olive oil and finely chopped sage, salt and pepper to taste. Let them get crispy and cooked. This will be used to season the "casserole". Throw the olive oil, potatoes, and everything from the skillet, into the bowl with the soyrizo.
 
-Dice the other potato, and toss in a skillet with olive oil and finely chopped sage, salt and pepper to taste. Let it get crispy and cooked. This will be used to season the "casserole". Throw the olive oil, potatoes, and everything from the skillet, into the bowl with the soyrizo. Add the coarse-cut potatoes.
-
-Add a handful of fresh cilantro, stemmed and chopped very finely, and a small amount of fresh sage, minced even more finely (two leaves the size of your thumb might do); sage is strong, but contributes to the tone of this dish which is intended to convey a very autumn character.
+Add a handful of fresh cilantro, stemmed and chopped very finely, and a small amount of fresh sage, minced even more finely (four leaves the size of your thumb might do); sage is strong, but contributes to the tone of this dish which is intended to convey a very autumn character.
 
 Put the pasta on the stove (cook to al dente, about 9 minutes), and begin cutting the tops off the pumpkins. You want to give yourself room to work inside the pumpkin, so make sure you are working down about two inches from the top. You're not making a jack-o-lantern, you're essentially building a vessel to cook within, so keep that in mind as you make the incision with the knife; draw a thin line first with the tip of the blade and make sure that it matches up after a once-around, then push the knife in, and go over your line gently.
 
@@ -39,4 +39,6 @@ When you are done with the pumpkins, begin adding the mixture from the bowl to t
 
 Before placing in the oven, take the two green onions set aside, and drive one into each of the pumpkins and leave just a little of their tops sticking out so that they keep the top of the pumpkin from sealing. The idea is to let some moisture escape from the inside of the pumpkin and allow it to settle a little while cooking, and to allow it to crust a little and to not collapse.
 
-There are no animal products, so it just needs to heat through to the center, which can be measured with a thermometer. 350°F for 45 minutes should do the job. There is no *need* to eat the pumpkins; they are provided for appearance and to lend character to the meal. However, after the food is served, they can be used in later dishes themselves.
+There are no animal products, so it just needs to heat through to the center, which can be measured with a thermometer. 350°F for 90 minutes should do the job.
+
+When serving, scoop the soyrizo/pasta/cheese/potato mixture out *with* the pumpkin; you have effectively created a pasta-cheese-seasoning-pumpkin-potato casserole. Serve this in bowls or on an appropriate plate. Discard into compost the pumpkin husks.
