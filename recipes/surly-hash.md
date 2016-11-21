@@ -1,6 +1,6 @@
 surly hash
 ---
-Kale is pretty resilient to spoilage in the fridge, at least the non-"baby kale" variety. Whole foods calls this "curly kale," and it can be a little tough to eat raw. Most people use this as a component in smoothies and so forth, but it has a lovely taste and texture. It's also a very nutritious vegetable and contains things that are tough to get from e.g., fruit (such as magnesium) and other vegetables.
+Kale is pretty resilient to spoilage in the fridge, at least the non-"baby kale" variety. Whole foods calls this "curly kale," and it can be a little tough to eat raw (this doesn't work with the kale you get in a bag). Most people use this as a component in smoothies and so forth, but it has a lovely taste and texture. It's also a very nutritious vegetable and contains things that are tough to get from e.g., fruit (such as magnesium) and other vegetables.
 
 Prepare the kale by removing the stalks -- I find it's pretty tough to do anything useful with this. I use about three cups per serving when I prepare this for myself (per one sweet potato). I chop the kale fairly finely, somewhere between diced and minced, where it's still fluffy and resembles a vegetable and not pesto.
 
