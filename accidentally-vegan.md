@@ -7,6 +7,6 @@ So there are things you may encounter that are accidentally vegan. That is, thin
 - fritos (ingredients: corn, corn oil, salt)
 - sun chips (the plain version, anyways)
 - fig newtons
-- ritz brand crackers with peanut butter sandwiches
+- ritz brand crackers (the "butter" flavour is accomplished with vegetable oil and "natural flavourings" which are not animal based); the cheese is dairy based, but ritz with peanut butter is fine
 - red vines (corn syrup, whole wheat flour, red colouring...)
 - "i can't believe it's not butter" (who knew‽)
