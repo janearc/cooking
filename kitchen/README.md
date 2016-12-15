@@ -37,6 +37,7 @@ perishables
 - almond milk (both dark chocolate and vanilla)
 - almond butter (maple for toast and vanilla for dessert and snacks)
 - peanut butter
+- squashes (like kabocha; see the **engastration** directory in this repository)
 
 ingredients in the fridge
 ---
@@ -45,12 +46,15 @@ It's frequently a pain in the ass to find somewhere to order delivery from, or t
 - cubed sweet potatoes (which can be frozen more or less indefinitely)
 - sliced shallots
 - sliced red onion
+- spring onions / scallions / green onions (these are really perishable, so I buy them about once a week and try to cook them immediately)
 - soyrizo
 - Daiya shreds (cheddar usually)
 - earth balance butter-alike spread
 - miyoko's butter-alike spread
 
-When a loaf of bread is pretty stale I cube it and put it in a bag I use specifically for odds and ends to make bread pudding with, in the freezer.
+I save all the bread that I don't use that goes stale, or biscuits that don't turn out or whichever because there are lots of recipes that can use it (like stuffing, or bread pudding, or I run the bread along a zester and make bread crumbs and use that to bread mac-n-cheese and pan fry it, and so on...). It's really kind of great to be able to make stuffing out of pumpkin biscuits, and this is something that only happens accidentally if you happen to have them sitting around. So I have odds and ends of bread in labeled ziplock bags in the freezer (and recipes here for "disposing of them").
+
+I also try to buy as locally as possible and if I encounter a farmer's market at Bart on the way home from the office, I will pick up a couple tomatoes and some onions or persimmons or whichever, and cook that nearly immediately. This way I am less worried about things going bad in the fridge because I am "waiting for produce" to appear at an opportunity, and I have a number of shelf- and fridge- stable things (tofu, meat-alike products, daiya cheese, etc) that will cover for when produce doesn't just appear spontaneously.
 
 portable rations
 ---
