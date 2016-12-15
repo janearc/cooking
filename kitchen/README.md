@@ -47,10 +47,14 @@ It's frequently a pain in the ass to find somewhere to order delivery from, or t
 - sliced shallots
 - sliced red onion
 - spring onions / scallions / green onions (these are really perishable, so I buy them about once a week and try to cook them immediately)
-- soyrizo
 - Daiya shreds (cheddar usually)
 - earth balance butter-alike spread
 - miyoko's butter-alike spread
+
+meat products:
+- soyrizo
+- beyond meat beef crumbles (freezer)
+- uptons seitan (generally i like the chorizo, bacon, and italian the most and keep all the above in the fridge)
 
 I save all the bread that I don't use that goes stale, or biscuits that don't turn out or whichever because there are lots of recipes that can use it (like stuffing, or bread pudding, or I run the bread along a zester and make bread crumbs and use that to bread mac-n-cheese and pan fry it, and so on...). It's really kind of great to be able to make stuffing out of pumpkin biscuits, and this is something that only happens accidentally if you happen to have them sitting around. So I have odds and ends of bread in labeled ziplock bags in the freezer (and recipes here for "disposing of them").
 
