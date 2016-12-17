@@ -19,3 +19,5 @@ combined all ingredients in a large bowl, stirred until uniform, placed on a coo
 note on doubling
 ---
 when i double this recipe, i add more butter, 3-4 tablespoons of bourbon, and i use a single cookie sheet instead of two. you have to trust that it isn't burning, and let it cook a little longer (because it's twice as deep). when i put it on the cookie sheet, i dust it lightly with granulated sugar (on the top). it's a very light accent, but it makes this much more of a "treat" than "breakfast." it has a very "holiday" tone to it between the bourbon, additional butter, and the sugar dusting to it; it's kind of cookies in a cereal bowl.
+
+When doubled like this, you will need to cook for 17-19 minutes. Don't worry if it doesn't seem done, and don't pull it out of the pan right away. Let it finish in the pan, but out of the oven, and then when it's cooled, pull it out with a spatula into whatever you're storing it in. It should come up in big flaky chunks.
