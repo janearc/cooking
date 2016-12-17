@@ -27,7 +27,8 @@ reducing wastage and personal consumption).
 - tellicherry pepper
 - candied walnuts
 - rolled oats (because I need to make granola)
-- flour (whole wheat, white - I've used king arthur for years)
+- flour (whole wheat, white, almond - I've used king arthur for years)
+- corn meal
 - yeast (brand seems irrelevant, but use it or it goes bad)
 
 perishables
