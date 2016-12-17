@@ -1,15 +1,8 @@
 the vegan kitchen
 ---
-"Cooking while vegan" is kind-of slightly different than cooking while
-vegetarian or, certainly, cooking while omni(-vorous). I have been a
-vegetarian most of my life, and I figured it would be useful to list the
-things I keep in my kitchen, just generally speaking, to have on-hand when I
-want to prepare food for myself.
+"Cooking while vegan" is kind-of slightly different than cooking while vegetarian or, certainly, cooking while omni(-vorous). I have been a vegetarian most of my life, and I figured it would be useful to list the things I keep in my kitchen, just generally speaking, to have on-hand when I want to prepare food for myself.
 
-I refer here to shelf-stable things, rather than perishable things (because I
-try to buy perishable things only when I am going to cook something
-specifically; many, but not all vegans feel a core tenet of veganism is
-reducing wastage and personal consumption).
+I refer here to shelf-stable things, rather than perishable things (because I try to buy perishable things only when I am going to cook something specifically; many, but not all vegans feel a core tenet of veganism is reducing wastage and personal consumption). Another note I'd add here is that I more-or-less know how fast I consume many of these things and because I do not have a car, I use Amazon to send me these things on subscription. So, for example, I go through six boxes of silken tofu in a month, so I have Amazon send me an order of twelve boxes every two months. This is both cheaper than going to the grocery store and has lower environmental impact than my running out to the store all the time.
 
 - coconut oil
 - sesame oil (for stir-frying, for fried rice)
@@ -63,13 +56,10 @@ I also try to buy as locally as possible and if I encounter a farmer's market at
 
 portable rations
 ---
-Sometimes it's hard to know when you'll be able to eat because you are going
-to be out for twelve hours in an area where there are going to be unknown food
-prospects. For this reason I keep around:
+Sometimes it's hard to know when you'll be able to eat because you are going to be out for twelve hours in an area where there are going to be unknown food prospects. For this reason I keep around:
 
 - justin's almond butter single-serving pouches
 - mama chia & other squeeze-fruit-pouch things
 - avocados
 
-Generally I keep some or all of these in my purse (yes, I often have an
-avocado in my purse).
+Generally I keep some or all of these in my purse (yes, I often have an avocado in my purse).
