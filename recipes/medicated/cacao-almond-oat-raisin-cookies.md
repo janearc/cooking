@@ -2,7 +2,7 @@ chocolate oat cookies
 ---
 these are adapted from a recipe at [my darling vegan](http://mydarlingvegan.com/2014/09/cacao-goji-berries-power-cookies/).
 
-cacao powder is added to the original recipe to make them darker, and baking soda is added to counter the acidity of raw cacao powder, and slightly more baking powder is added to lift the additional material.
+cacao powder is added to the original recipe to make them darker, richer, and bitter, and baking soda is added to counter the acidity of raw cacao powder, and slightly more baking powder is added to lift the additional material.
 
 and also, marihuana.
 
