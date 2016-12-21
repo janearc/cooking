@@ -8,13 +8,13 @@ I refer here to shelf-stable things, rather than perishable things (because I tr
 - sesame oil (for stir-frying, for fried rice)
 - olive oil: a rich, eat-with-bread kind, and a cook-with kind
 - dried fruits (I keep cherries, cranberries, raisins, coconut meat, sometimes pineapple)
-- tofu of various consistency (the kind you get in a box and keep on the shelf)
+- [tofu](https://smile.amazon.com/Mori-Nu-Silken-Tofu-Soft-Ounce/dp/B000LKZ84W/) of various consistency (the kind you get in a box and keep on the shelf)
 - amy's brand chili and black beans
 - maldon sea salt
 - granola (I make this, it keeps for weeks, so I consider this "shelf stable")
 - vinegar: rich balsamic, and rice vinegar
 - soy sauce (primarily for stir frying and fried rice)
-- hemp hearts
+- [hemp hearts](https://smile.amazon.com/Manitoba-Harvest-Organic-Hearts-Shelled/dp/B00H4H0JXA/)
 - maple syrup
 - molasses
 - tellicherry pepper
@@ -58,7 +58,7 @@ portable rations
 ---
 Sometimes it's hard to know when you'll be able to eat because you are going to be out for twelve hours in an area where there are going to be unknown food prospects. For this reason I keep around:
 
-- justin's almond butter single-serving pouches
+- [justin's almond butter single-serving pouches](https://smile.amazon.com/Justins-Almond-Butter-Maple-Squeeze/dp/B001HTIYDI/)
 - mama chia & other squeeze-fruit-pouch things
 - avocados
 
