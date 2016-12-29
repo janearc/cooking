@@ -19,7 +19,7 @@ Combine in a saucepan over low heat, stirring to create a sort of custard:
 
 Place in a large bowl separately:
 - 2.5 c flour
-- 1 tsp baking soda
+- 1 tsp baking soda (2 tsp if you use cranberries)
 - 6 tsp baking powder
 
 Fold the custard into the flour.
