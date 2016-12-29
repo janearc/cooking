@@ -19,8 +19,8 @@ Combine in a saucepan over low heat, stirring to create a sort of custard:
 
 Place in a large bowl separately:
 - 2.5 c flour
-- .75 tsp baking soda
-- 5 tsp baking powder
+- 1 tsp baking soda
+- 6 tsp baking powder
 
 Fold the custard into the flour.
 
@@ -31,4 +31,4 @@ Place dough in a bread pan and sprinkle on top:
 - 1/4 c dark or semisweet chocolate, minced
 - salt flakes to taste
 
-Bake for 65 minutes at 350°F in a lightly oiled non-stick pan.
+Bake for 75 minutes at 350°F in a lightly oiled non-stick pan.
