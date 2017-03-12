@@ -11,3 +11,4 @@ supplements
 * glucosamine & methylsulfonymethane (MSM)
 * *femdophilus* brand acidophilus
 * aspirin (83mg/day)
+* [prana](http://www.actnowprogram.com/prana-capsules/) p1, p4, and p5 for [various](https://github.com/janearc/misc/blob/master/writings/something-smells.md) purposes as well as insomnia
