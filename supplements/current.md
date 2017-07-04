@@ -9,8 +9,7 @@ supplements
 * melatonin as needed
 * milk thistle extract
 * glucosamine & methylsulfonymethane (MSM)
-* *femdophilus* brand acidophilus
 * aspirin (83mg/day)
-* [prana](http://www.actnowprogram.com/prana-capsules/) p1 & p4 for [various](https://github.com/janearc/misc/blob/master/writings/something-smells.md) purposes as well as insomnia
-* piracetam, pramiracetam, oxiracetam, noopept, uridine monophosphate (ump), docosahexaenoic acid (dha) - i find this grouping aids with verbal recall & effectiveness
+* [prana](http://www.actnowprogram.com/prana-capsules/) p1 for [various](https://github.com/janearc/misc/blob/master/writings/something-smells.md) purposes as well as insomnia
+* piracetam, pramiracetam, oxiracetam, docosahexaenoic acid (dha) - i find this grouping aids with verbal recall & effectiveness
 * caffeine - i am fairly conscientious about the when and the how of my caffeine usage and treat it like a drug
