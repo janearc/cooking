@@ -5,7 +5,7 @@ i've made coffee lots of different ways in lots of different coffee makers, and 
 equipment
 ---
 - gram-accurate kitchen scale
-- something to weigh coffee in
+- something in which to weigh your coffee
 - chemex coffee maker & filters
 - gooseneck kettle
 
