@@ -26,7 +26,7 @@ managing this process carefully
 
 - measure your coffee with a scale. the "correct" ratio is anywhere from 10:1 water to coffee (10:1 is pretty strong) up to 15:1 which is much lighter and lets you experience more of the coffee's subtler notes but is also so much more dilute it loses its character. personally, i use just a little less than 13:1.
 
-- measuring your water with a scale (1ml == 1mg) makes everything lots easier and more precise.
+- measuring your water with a scale (1ml == 1g) makes everything lots easier and more precise.
 
 - this means you should probably put the whole thing on a scale and use your tare button in between steps. either use a known quantity of water when pouring into the chemex (e.g., a flask with graduations of ml), or weigh the chemex with the wet filter & coffee on the scale, and tare it and pour until the weight of the chemex increases by the amount of water you intend to pour into it. either way, you are precisely controlling the amount of water going in.
 
