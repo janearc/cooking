@@ -8,6 +8,8 @@ equipment
 - something in which to weigh your coffee
 - chemex coffee maker & filters
 - gooseneck kettle
+- accurate temperature-holding electric kettle
+- temperature probe (maybe)
 
 basic steps
 ---
