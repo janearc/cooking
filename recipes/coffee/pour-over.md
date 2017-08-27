@@ -8,17 +8,21 @@ equipment
 - something in which to weigh your coffee
 - chemex coffee maker & filters
 - gooseneck kettle
-- accurate temperature-holding electric kettle
+- accurate temperature-holding electric kettle or hot water source
 - temperature probe (maybe)
 
 basic steps
 ---
-- wet filter with 75cc hot water
-- drain water from chemex
-- add coffee to filter
-- add water to coffee
-- remove filter at the tail
-- decant coffee to a mug
+recipe assumes 35-37g coffee, 450cc water, and produces ~335cc coffee (one serving)
+
+- measure out coffee; grind
+- wet filter in chemex with 75cc 204&deg;F hot water; discard water
+- place grounds in chemex
+- add 250cc water to coffee slowly
+- add another 100cc water slowly
+- add another 100cc water slowly
+- remove filter with last 15cc of water & compost
+- decant coffee to cup & serve
 
 managing this process carefully
 ---
@@ -31,8 +35,6 @@ managing this process carefully
 - measuring your water with a scale (1ml == 1g) makes everything lots easier and more precise.
 
 - this means you should probably put the whole thing on a scale and use your tare button in between steps. either use a known quantity of water when pouring into the chemex (e.g., a flask with graduations of ml), or weigh the chemex with the wet filter & coffee on the scale, and tare it and pour until the weight of the chemex increases by the amount of water you intend to pour into it. either way, you are precisely controlling the amount of water going in.
-
-- coffee changes taste over a range of temperatures. personally i prefer my coffee to be slightly cooler than what comes out of my kettle. coffees with "brighter", "fruitier", etc notes, will do better being slightly cooler, whereas more robust coffees with darker roasts or heavy tasting notes like chocolate will do fine at hotter temperatures. i tend to brew my coffee around 203&deg;F. Using a temperature probe (and at home I use a temperature holding electric kettle), I've noticed that this means there is a drop to about 177&deg;F to the kettle I am using to do the "pour-over" into the grounds, and by the time it is in my cup, it is *144&deg;F*. i say all this to point out that, while we consider coffee to be a *hot* beverage, it should never be so hot as to even burn your tongue when prepared this way.
 
 - the vessel you drink it out of changes the way it tastes, just like with wine and bourbon. so you can drink your pour-over out of a travel thermos, and it will stay warm longer, but you will miss some of the experience of having your nose in a mug, and some of the delicate or subtle notes will be missing. you may want to try an actual fluted teacup.
 
@@ -53,3 +55,12 @@ managing this process carefully
 - there seems to be a difference between the unbleached and the bleached paper filters. you wouldn't think it makes a difference, but i was running out of filters, went to buy more, and noticed there were two kinds, and bought the unbleached ones, ran water through the unbleached ones, and tasted it. they actually taste really different. they're much more mild and taste like paper or cardboard maybe without a strange overtone to it. so maybe next time you go to replace your filters, buy the brown ones. not a big deal, but worth doing.
 
 - i realise this sounds probably impossibly fancy but i also notice the importance of the water that goes into the coffee. i have a chemex at work and a chemex at home and i use the same filters and the same coffee in the same exact amounts every day and can test small variations. ultimately what i wind up tasting is the difference between the water i have at home and the (big, expensive) filtered water system we have at work. so if you can find a way to improve the water that goes into your coffee, this will make a big difference (it's one of the primary factors that goes into a high-end whisky).
+
+- temperature deserves its own subsection:
+  - coffee changes taste over a range of temperatures. you may find that brewing your coffee hotter brings out notes that you did not know were there or (alternatively) that you don't want there. for me, i prefer richer, nuttier, chocolatier coffees to be brewed hotter, and more acid, fruitier coffees to be brewed cooler, although i make exceptions for this.
+  - i use a digital, temperature-holding kettle when i am at home and i have a temperature probe so i am pretty clear on what my water is doing. on an average day, coffee at the kettle is 203&deg;F, coffee in the gooseneck kettle is as cool as 177&deg;F, and coffee in the chemex as it is filtering drops anywhere from 10-20&deg;F in the filter before it hits my cup, which is about *144&deg;F*.
+  - you should use some of your hot water to heat your chemex before you start so the coffee doesn't cool dramatically coming out of the filter
+  - you should *also* heat your gooseneck kettle the way you do a teakettle - give it 75cc's of hot water, swish it around, and toss it; the water will stay a much more consistent temperature.
+  - perform the entirety of this operation on an insulated mat or wood block; doing this on a granite countertop is a good way to cool things quickly (and your chemex is on a scale, right?)
+  - with coarse grounds, you can brew a pretty hot cup of coffee, pretty quickly, in the chemex (especially if you have a source of hot water and don't use a kettle) because the water runs right through the grounds. your coffee will cool more for finer grounds (and be more greatly extracted), so you may want to compensate by increasing the temperature (and reducing the amount of coffee you use).
+  - all of this goes to say that a pour over should never be so hot that it burns your tongue. it is a hot, but never scalding, beverage.
