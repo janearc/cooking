@@ -1,5 +1,7 @@
 notes on pour overs
 ---
+// this is mostly superseded by the "how-to.md" document in this directory
+
 i've made coffee lots of different ways in lots of different coffee makers, and had lots of different people prepare coffee for me with their preferred means; part of me wishes i weren't quite so stubborn about it, but i don't think there's a better way to make coffee for yourself than a [chemex](http://www.chemexcoffeemaker.com/). i owned an espresso machine for years and was reasonably competent in using it, and i see no reason to go back.
 
 equipment
