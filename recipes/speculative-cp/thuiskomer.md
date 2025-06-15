@@ -6,36 +6,39 @@ _A Café Pupjes Signature Sandwich_
 
 ---
 
-## 🥖 Ingredients
+## Ingredients
 
 ### Bread
-- 2 soft baguettes (about 120–140g each), split lengthwise
-- Optional: drizzle of neutral oil or butter for toasting
+
+* 8 soft baguettes (120–140 g each)
+* Neutral oil or butter for toasting
 
 ### Spread
-- 3 tbsp (45g) smooth peanut butter  
-  _(unsweetened, natural preferred)_
+
+* 120 g smooth peanut butter
 
 ### Protein
-- 1 tin (115g) oil-packed sardines, drained
-- 1 tbsp (15ml) fresh lime juice or rice vinegar
+
+* 4 tins (115 g each) oil-packed sardines, drained
+* 60 ml fresh lime juice or rice vinegar
 
 ### Heat
-- 2 tbsp (30g) chili crisp  
-  _(adjust to taste)_
+
+* 120 g chili crisp
 
 ### Crunch
-- 50g pickled carrots, julienned  
-- 50g pickled daikon or red onion, thinly sliced  
-  _(Substitute any banh mi-style pickle)_
+
+* 400 g pickled carrots, julienned
+* 400 g pickled daikon or red onion, sliced
 
 ### Herbs
-- 10g fresh cilantro leaves  
-- 5g Thai basil leaves (optional but recommended)
+
+* 40 g fresh cilantro
+* 20 g Thai basil (optional)
 
 ---
 
-## 🔪 Instructions
+## Instructions
 
 1. **Toast the Baguette (Optional)**  
    Lightly brush or spray the cut side of each baguette with neutral oil or butter. Toast cut-side down in a hot pan until just golden and crisp.
@@ -55,13 +58,13 @@ _A Café Pupjes Signature Sandwich_
 
 ---
 
-## 🍻 Pairing Suggestion
+## Pairing Suggestion
 
 **GMDFB Marmalade Cider** – Effervescent, citrus-bright, and slightly funky. Pairs beautifully with the fat of the sardines and the chili crisp’s roasted heat.
 
 ---
 
-## 🛠️ Notes & Variations
+## Notes & Variations
 - Swap peanut butter for tahini or cashew butter for a twist.
 - Add thin cucumber slices or jalapeño for extra crunch/heat.
 - For a vegan version: replace sardines with mashed chickpeas + nori flakes + soy sauce.

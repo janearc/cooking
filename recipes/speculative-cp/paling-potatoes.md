@@ -2,28 +2,31 @@
 
 A rich, comforting, and slightly briny dish that feels like a warm hug after a cold canal walk. Inspired by Dutch tradition, built for resilience.
 
-## Ingredients (Serves 4)
+## Ingredients (Serves 8)
 
-### Potatoes:
-- 1.5 kg waxy potatoes (e.g., Yukon Gold), skin on
-- 100 g butter, cold and cubed
-- 100 ml heavy cream *(optional, for extra richness)*
-- Salt, to taste
-- Freshly ground black pepper, to taste
+### Potatoes
 
-### Eel & Garnish:
-- 300 g smoked eel fillets, boned and skinned
-- 3 scallions, finely sliced
-- 2 tbsp capers, rinsed and chopped
-- Pickled red onions *(optional, for brightness)*
-- Fresh dill, roughly chopped *(optional)*
+* 3 kg waxy potatoes, skin on
+* 200 g butter, cubed
+* 200 ml heavy cream
+* Salt
+* Black pepper
 
-### Bright Sauce *(optional but recommended)*:
-- 2 tbsp yuzu marmalade *(or orange marmalade with lemon juice)*
-- 1 tbsp Dijon mustard
-- 1 tbsp apple cider vinegar
-- 3 tbsp olive oil
-- Pinch of salt
+### Eel & Garnish
+
+* 600 g smoked eel fillets
+* 6 scallions, finely sliced
+* 4 tbsp capers, rinsed and chopped
+* Pickled red onions (optional)
+* Fresh dill (optional)
+
+### Bright Sauce (optional)
+
+* 4 tbsp yuzu marmalade
+* 2 tbsp Dijon mustard
+* 2 tbsp apple cider vinegar
+* 6 tbsp olive oil
+* Pinch of salt
 
 ---
 

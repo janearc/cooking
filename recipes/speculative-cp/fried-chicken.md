@@ -2,36 +2,40 @@
 
 Comfort food for people who’ve been through it—crispy, juicy, citrus-bright, and deeply satisfying.
 
-## Ingredients (Serves 4–6)
+## Ingredients (Serves 8)
 
 ### Chicken & Brine
-- 1.5 kg boneless chicken thighs (skin-on preferred)
-- 500 ml buttermilk
-- 1 tbsp salt
-- 1 tbsp smoked paprika
-- 1 tsp garlic powder
-- 1 tsp onion powder
-- 1 tsp freshly ground black pepper
-- 1 tbsp yuzu marmalade
+
+* 3 kg boneless chicken thighs
+* 1 L buttermilk
+* 2 tbsp salt
+* 2 tbsp smoked paprika
+* 2 tsp garlic powder
+* 2 tsp onion powder
+* 2 tsp black pepper
+* 2 tbsp yuzu marmalade
 
 ### Dredge
-- 300 g all-purpose flour
-- 100 g cornstarch
-- 1 tbsp smoked paprika
-- 1 tsp garlic powder
-- 1 tsp onion powder
-- 1 tsp white pepper
-- 1 tsp salt
+
+* 600 g all-purpose flour
+* 200 g cornstarch
+* 2 tbsp smoked paprika
+* 2 tsp garlic powder
+* 2 tsp onion powder
+* 2 tsp white pepper
+* 2 tsp salt
 
 ### Yuzu Marmalade Drizzle
-- 3 tbsp yuzu marmalade
-- 1 tbsp rice vinegar
-- 1 tbsp butter
-- Pinch of chili flakes (optional)
+
+* 6 tbsp yuzu marmalade
+* 2 tbsp rice vinegar
+* 2 tbsp butter
+* Pinch chili flakes (optional)
 
 ### Frying Oil
-- 1.5 L corn oil (or enough for 3–4 cm depth in your pan)
-- 6–8 dried sage leaves
+
+* 3 L corn oil
+* 12–16 dried sage leaves
 
 ---
 

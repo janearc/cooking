@@ -2,24 +2,27 @@
 
 *Buttery, cheesy mashed potatoes and cabbage, baked until golden and bubbling, with an optional marmalade glaze for brightness. A dish that feels like home after a long, cold walk.*
 
-## Ingredients (Serves 4–6)
+## Ingredients (Serves 8)
 
 ### Base
-- 700 g floury potatoes, peeled and cut into chunks
-- 3 Tbsp butter or schmaltz (plus extra for topping)
-- ½ small head green cabbage (or kale), finely shredded
-- 2 scallions, finely sliced
-- Salt and black pepper, to taste
+
+* 1.4 kg floury potatoes, peeled and chunked
+* 6 tbsp butter or schmaltz
+* 1 small head green cabbage, shredded
+* 4 scallions, finely sliced
+* Salt and pepper
 
 ### Binding
-- 80 ml whole milk or heavy cream, warmed
-- 100 g sharp cheddar cheese, grated
-- *Optional:* 1 tsp yuzu marmalade or Dijon mustard (for brightness)
+
+* 160 ml whole milk or cream
+* 200 g sharp cheddar, grated
+* Optional: 2 tsp yuzu marmalade or Dijon mustard
 
 ### Topping
-- 30 g cheddar cheese, grated
-- 2 Tbsp melted butter
-- *Optional:* 1 Tbsp marmalade, thinned with a splash of hot water
+
+* 60 g cheddar, grated
+* 4 tbsp melted butter
+* Optional: 2 tbsp marmalade, thinned with hot water
 
 ---
 

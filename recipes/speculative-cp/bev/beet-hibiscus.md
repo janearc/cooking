@@ -1,15 +1,15 @@
 # Druivenheks Beet-Hibiscus Iced Tea Mead
 
-## Ingredients (for 1 gallon / ~4 liters)
+## Ingredients (for 8 liters / 8 servings)*
 
-- 1 small beet (peeled and chopped)
-- 25g dried hibiscus petals (or 2–3 hibiscus tea bags)
-- 2–3 tbsp loose Ceylon tea (or 4 black tea bags)
-- 2 lemons (zest and juice)
-- 1.2–1.5kg sugar (or 700g honey + 600g sugar, adjust for ABV)
-- 1/2 tsp citric acid (optional, to taste)
-- Water to 1 gallon (~4L)
-- 1 packet Lalvin K1-V1116 yeast (or any cold-tolerant wine yeast)
+* 2 small beets, peeled and chopped
+* 50 g dried hibiscus petals (or 5–6 hibiscus tea bags)
+* 5–6 tbsp loose Ceylon tea (or 8 black tea bags)
+* 4 lemons (zest and juice)
+* 2.4–3 kg sugar (or 1.4 kg honey + 1.2 kg sugar)
+* 1 tsp citric acid (optional, to taste)
+* Water to 8 liters
+* 2 packets Lalvin K1-V1116 yeast (or any cold-tolerant wine yeast)
 
 ## Step-by-Step
 

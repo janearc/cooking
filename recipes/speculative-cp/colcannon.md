@@ -1,23 +1,26 @@
 # Café Pupjes Colcannon  
 *Rich, buttery mashed potatoes with cabbage, scallions, and a marmalade twist.*
 
-## Ingredients (Serves 4–6)
+## Ingredients (Serves 8)
 
 ### Potatoes & Dairy
-- 900 g Yukon Gold potatoes, peeled and quartered
-- 240 ml heavy cream or whole milk
-- 113 g unsalted butter, plus extra for finishing
-- Salt and freshly ground black pepper, to taste
+
+* 1.8 kg Yukon Gold potatoes, peeled and quartered
+* 480 ml heavy cream or whole milk
+* 225 g unsalted butter, plus extra for finishing
+* Salt and black pepper
 
 ### Vegetables
-- 1 small head green cabbage (or savoy), cored and thinly sliced
-- 4 scallions, thinly sliced (whites and greens separated)
-- (Optional) A handful of kale, finely chopped
+
+* 2 small green cabbages (or savoy), thinly sliced
+* 8 scallions, thinly sliced
+* (Optional) 2 handfuls kale, chopped
 
 ### Flavor Boost
-- 2 tbsp yuzu or Seville orange marmalade
-- 1 tbsp Dijon mustard
-- 1 tsp apple cider vinegar
+
+* 4 tbsp yuzu or Seville orange marmalade
+* 2 tbsp Dijon mustard
+* 2 tsp apple cider vinegar
 
 ### Optional Toppings (Late Night Vibe)
 - Buttermilk-fried chicken thigh

@@ -1,31 +1,40 @@
-# 🥩 Werkman's Breakfast Schnitzel
+# Werkman's Breakfast Schnitzel
 
 **Fuel for the fight. A schnitzel that woke up American, got lost in the Dutch morning, and came back stronger.**
 
-## 🍳 Ingredients (Serves 2)
+## Ingredients (Serves 8)
 
-### For the Schnitzel:
-- 2 thin beef steaks (e.g., rump or sirloin, ~150g each), pounded to 1cm thickness  
-- 50g all-purpose flour  
-- 1 large egg  
-- 100g breadcrumbs (Panko or Dutch paneermeel)  
-- 1 tsp salt  
-- 1/2 tsp black pepper  
-- 1/2 tsp smoked paprika (optional)  
-- 75ml neutral oil (sunflower or canola) for frying  
+### Schnitzel
 
-### For the Eggs:
-- 2–4 eggs (depending on hunger), cooked your way:  
-  - **Soft scramble:** 1 tbsp butter + pinch of salt  
-  - **Sunny-side up:** splash of oil, gentle heat  
-  - **Poached:** simmered in 1 tbsp vinegar water  
+* 8 thin beef steaks (\~150 g each), pounded to 1 cm
+* 200 g flour
+* 4 eggs
+* 400 g breadcrumbs
+* 4 tsp salt
+* 2 tsp black pepper
+* 2 tsp smoked paprika (optional)
+* 300 ml neutral oil for frying
 
-### For the Potatoes:
-- 300g waxy potatoes (e.g., Nicola or Charlotte), peeled and grated  
-- 1 tbsp flour  
-- 1 small onion, grated  
-- Salt and pepper to taste  
-- 2 tbsp oil or schmaltz for frying  
+### Eggs
+
+* 8–16 eggs (soft scramble, sunny-side, or poached)
+* 4 tbsp butter (for scramble)
+
+### Potatoes
+
+* 1.2 kg waxy potatoes, peeled and grated
+* 4 tbsp flour
+* 2 onions, grated
+* 4 tbsp oil or schmaltz
+* Salt and pepper to taste
+
+### Pepper Gravy (optional)
+
+* 4 tbsp butter
+* 4 tbsp flour
+* 800 ml beef stock
+* 4 tsp cracked black pepper
+* Optional: 4 tbsp cream
 
 ### Optional Toppings:
 - 2 tbsp **pepper gravy** (see below) *or* 1 tbsp **chili crisp**  
@@ -33,7 +42,7 @@
 
 ---
 
-## 🧑‍🍳 Instructions
+## Instructions
 
 ### 1. Prep the Schnitzel
 1. Pound steaks thin with a meat mallet.

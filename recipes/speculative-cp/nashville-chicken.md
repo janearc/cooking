@@ -1,44 +1,50 @@
-Café Pupjes Nashville Hot Chicken (Ghost Butter Edition)
+# nashville hot chicken
 
 last made feb 2025 in san francisco (i realized i wasn't going to be able to
 get nashville chicken in the netherlands so i needed to learn how to make
 it myself).
 
-Ingredients
+## Ingredients
 
-For the Chicken
-- 1.8 kg boneless, skinless chicken breasts, brined, cut into 16 pieces
+serves 8
 
-Buttermilk Dip
-- 500 ml buttermilk
-- 1 tsp black pepper
-- 1 tsp smoked paprika
-- 1 tsp garlic powder
-- 1 tsp cayenne
+### Chicken
 
-Flour Dredge
-- 400–480 g all-purpose flour
-- 1.5 tbsp salt
-- 2 tbsp black pepper
-- 1 tbsp garlic powder
-- 1 tbsp onion powder
-- 1 tbsp smoked paprika
-- 1 tbsp Durban curry powder (or madras, any hot curry blend)
-- 1 tsp cayenne
-- Optional: a handful of blitzed brioche croutons for wild crunch
+* 3.6 kg boneless, skinless chicken breasts, brined and cut into 32 pieces
 
-For Frying
-- 1.5 litres neutral oil (sunflower, canola, or peanut)
+### Buttermilk Dip
 
-Nashville Ghost Pepper Butter Wash
-- 100 g unsalted butter
-- 100 ml ghost pepper hot sauce (or your hottest sauce, 1:1 with butter for pain)
-- 2 tbsp cayenne
-- 1 tbsp brown sugar
-- 1 tsp paprika
-- 1/2 tsp garlic powder
-- 1/2 tsp salt
-- (Skip the dry spices if your hot sauce is already nuclear)
+* 1 L buttermilk
+* 2 tsp black pepper
+* 2 tsp smoked paprika
+* 2 tsp garlic powder
+* 2 tsp cayenne
+
+### Flour Dredge
+
+* 800–960 g all-purpose flour
+* 3 tbsp salt
+* 4 tbsp black pepper
+* 2 tbsp garlic powder
+* 2 tbsp onion powder
+* 2 tbsp smoked paprika
+* 2 tbsp hot curry powder
+* 2 tsp cayenne
+* Optional: 2 handfuls blitzed brioche croutons
+
+### For Frying
+
+* 3 L neutral oil
+
+### Nashville Ghost Pepper Butter Wash
+
+* 200 g unsalted butter
+* 200 ml ghost pepper hot sauce
+* 4 tbsp cayenne
+* 2 tbsp brown sugar
+* 2 tsp paprika
+* 1 tsp garlic powder
+* 1 tsp salt
 
 For Serving
 - White bread

@@ -1,23 +1,23 @@
 # Zoet & Zilt  
 _Smoked Trout, Fig Preserves & Creamy Cheese on Toasted Boerenbrood_
 
-## Ingredients (serves 2)
+## Ingredients (serves 8)
 
-- 4 slices boerenbrood (farmhouse bread), thick-cut
-- 100 g fig preserves (homemade or high-quality jarred)
-- 150 g creamy farmhouse cheese (e.g. brie, camembert, or a young goat cheese)
-- 120 g smoked trout fillet, flaked
-- Freshly cracked black pepper (to taste)
-- Optional: lemon wedge, for brightness
+* 16 slices boerenbrood (farmhouse bread), thick-cut
+* 200 g fig preserves
+* 300 g creamy farmhouse cheese (brie, camembert, goat cheese)
+* 240 g smoked trout fillet, flaked
+* Black pepper
+* 2 lemons, cut in wedges
 
-## Optional Homemade Fig Preserves (makes ~1 jar)
+### Homemade Fig Preserves (makes \~2 jars)
 
-- 500 g ripe figs, stemmed and chopped
-- 150 g granulated sugar
-- 1 tbsp honey (15 mL)
-- 1 tbsp cider vinegar (15 mL)
-- Zest of 1 small lemon
-- Optional: 1 sprig fresh thyme or a pinch of cinnamon
+* 1 kg ripe figs, chopped
+* 300 g granulated sugar
+* 2 tbsp honey (30 ml)
+* 2 tbsp cider vinegar (30 ml)
+* Zest of 2 lemons
+* Optional: 2 sprigs fresh thyme or a pinch cinnamon
 
 ## Instructions
 

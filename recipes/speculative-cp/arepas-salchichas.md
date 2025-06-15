@@ -4,44 +4,46 @@ _Crispy corn pockets stuffed with shredded duck, buttery colcannon, tangy kraut,
 
 ---
 
-## Ingredients (Serves 4)
+## Ingredients (Serves 8)
 
-### For the Duck:
-- 2 duck legs, skin on
-- 1 tsp salt
-- 1/2 tsp black pepper
-- 1 small onion, quartered
-- 2 garlic cloves, smashed
-- 1 bay leaf
-- 1 tsp mustard seeds (optional)
-- 240 ml chicken stock or water
-- 15 g duck fat or butter (optional)
+* 4 duck legs, skin on
+* 2 tsp salt
+* 1 tsp black pepper
+* 2 small onions, quartered
+* 4 garlic cloves, smashed
+* 2 bay leaves
+* 2 tsp mustard seeds (optional)
+* 480 ml chicken stock or water
+* 30 g duck fat or butter (optional)
 
 ### For the Arepas:
-- 120 g pre-cooked cornmeal (P.A.N. or similar)
-- 300 ml warm water
-- 1/2 tsp salt
-- 15 g butter (optional)
-- Neutral oil for frying
+
+* 240 g pre-cooked cornmeal (P.A.N. or similar)
+* 600 ml warm water
+* 1 tsp salt
+* 30 g butter (optional)
+* Neutral oil for frying
 
 ### For the Colcannon:
-- 500 g potatoes, peeled and cubed
-- 75 g shredded cabbage or kale
-- 2 scallions, finely chopped
-- 30 g butter
-- 60 ml cream or milk
-- Salt and pepper to taste
 
-### For the Brightness:
-#### Quick-Pickled Onions:
-- 1 red onion, thinly sliced
-- 120 ml apple cider vinegar (or white vinegar)
-- 120 ml water
-- 15 g sugar
-- 5 g salt
+* 1 kg potatoes, peeled and cubed
+* 150 g shredded cabbage or kale
+* 4 scallions, finely chopped
+* 60 g butter
+* 120 ml cream or milk
+* Salt and pepper to taste
 
-#### Kraut:
-- 120 g sauerkraut
+### For the Pickled Onions:
+
+* 2 red onions, thinly sliced
+* 240 ml apple cider vinegar (or white vinegar)
+* 240 ml water
+* 30 g sugar
+* 10 g salt
+
+### For the Kraut:
+
+* 240 g sauerkraut
 
 ---
 

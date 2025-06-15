@@ -4,28 +4,31 @@
 
 ---
 
-## Ingredients (Serves 4)
+## Ingredients (Serves 8)
 
 ### Lobster Filling
-- 450 g cooked lobster meat, chopped into bite-sized pieces  
-- 60 g unsalted butter, melted  
-- 15 ml fresh lemon juice  
-- Salt and freshly ground black pepper, to taste  
+
+* 900 g cooked lobster meat, chopped
+* 120 g unsalted butter, melted
+* 30 ml fresh lemon juice
+* Salt and pepper
 
 ### Caper-Dill Cream
-- 120 g crème fraîche or full-fat sour cream  
-- 15 g capers, finely chopped  
-- 5 g fresh dill, finely chopped (about 1 tbsp packed)  
-- 5 g Dijon mustard (1 tsp)  
-- 5 ml lemon juice  
-- Salt and pepper, to taste  
+
+* 240 g crème fraîche or full-fat sour cream
+* 30 g capers, finely chopped
+* 10 g fresh dill, finely chopped
+* 10 g Dijon mustard
+* 10 ml lemon juice
+* Salt and pepper
 
 ### Assembly
-- 4 New England-style split-top buns (or 4 small sourdough rolls, hollowed)  
-- 4 strips thick-cut bacon (approx. 100 g), cooked crispy and crumbled  
-- 30 g unsalted butter, melted (for toasting buns)  
-- Optional: 1 handful finely shredded cabbage or lettuce  
-- Extra dill and capers for garnish  
+
+* 8 New England-style split-top buns (or 8 small sourdough rolls)
+* 8 strips thick-cut bacon (\~200 g), cooked and crumbled
+* 60 g unsalted butter, melted
+* Optional: 2 handfuls shredded cabbage or lettuce
+* Extra dill and capers for garnish
 
 ---
 

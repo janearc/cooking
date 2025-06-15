@@ -1,30 +1,33 @@
 # Haring Tuna & Kimchi Casserole 🇳🇱🔥  
 *A Café Pupjes Schattigjes original: buttery, briny, bold.*
 
-## Ingredients (Serves 4–6)
+## Ingredients (Serves 8)
 
 ### Base
-- 500 g cooked long-grain rice or egg noodles
-- 2 × 160 g cans tuna in oil or brine, drained
-- 100 g pickled haring fillet, diced (or smoked mackerel)
-- 150 g well-fermented kimchi, chopped
-- 100 g frozen peas (optional)
-- 50 g scallions, finely chopped (about 3 scallions)
-- 30 g butter or schmaltz
+
+* 1 kg cooked long-grain rice or egg noodles
+* 4 × 160 g cans tuna in oil or brine, drained
+* 200 g pickled haring fillet, diced (or smoked mackerel)
+* 300 g well-fermented kimchi, chopped
+* 200 g frozen peas (optional)
+* 100 g scallions, finely chopped
+* 60 g butter or schmaltz
 
 ### Sauce
-- 30 g butter
-- 30 g all-purpose flour
-- 375 ml whole milk
-- 1 tsp Dijon mustard
-- 1 tbsp yuzu marmalade or 1 tbsp rice vinegar
-- Salt and white pepper to taste
+
+* 60 g butter
+* 60 g flour
+* 750 ml whole milk
+* 2 tsp Dijon mustard
+* 2 tbsp yuzu marmalade or rice vinegar
+* Salt and white pepper
 
 ### Topping
-- 60 g brioche breadcrumbs (or panko)
-- 30 g duck fat or butter
-- 15 g capers, chopped
-- 1 tbsp finely chopped kimchi
+
+* 120 g brioche breadcrumbs (or panko)
+* 60 g duck fat or butter
+* 30 g capers, chopped
+* 2 tbsp finely chopped kimchi
 
 ---
 

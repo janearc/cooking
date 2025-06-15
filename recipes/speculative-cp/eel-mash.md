@@ -1,6 +1,6 @@
 # Smoked Eel & Buttery Mash with Marmalade Brown Butter
 
-**Serves:** 2  
+**Serves:** 8  
 **Prep Time:** 10 minutes  
 **Cook Time:** 25 minutes  
 
@@ -8,22 +8,28 @@
 
 ## Ingredients
 
-### For the Mash
-- 600g starchy potatoes (e.g. Maris Piper or Russet), peeled and cut into chunks  
-- 100ml whole milk, warmed  
-- 50g butter, cubed  
-- Salt and white pepper, to taste  
-- 1 tbsp yuzu marmalade *(or orange marmalade + splash of lemon juice)*  
+### Potatoes
 
-### For the Smoked Eel
-- 150g smoked eel fillet, skin removed, cut into bite-sized pieces  
-- 1 tbsp butter  
-- Juice of ¼ lemon  
+* 3 kg waxy potatoes, skin on
+* 200 g cold butter
+* 200 ml heavy cream
+* Salt and black pepper
 
-### For the Marmalade Brown Butter
-- 50g butter  
-- 1 tbsp yuzu marmalade  
-- 1 tsp capers, rinsed and finely chopped  
+### Eel & Garnish
+
+* 600 g smoked eel fillets
+* 6 scallions, finely sliced
+* 4 tbsp capers, rinsed and chopped
+* Pickled red onions (optional)
+* Fresh dill (optional)
+
+### Bright Sauce (optional)
+
+* 4 tbsp yuzu marmalade
+* 2 tbsp Dijon mustard
+* 2 tbsp apple cider vinegar
+* 6 tbsp olive oil
+* Pinch of salt
 
 ### To Finish
 - Pickled red onions, finely sliced  

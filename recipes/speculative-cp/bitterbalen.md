@@ -1,6 +1,6 @@
 # Café Pupjes Bitterballen: Duck Sausage & Marmalade Mustard
 
-**Makes:** ~24 bitterballen  
+**Makes:** ~48 bitterballen  
 **Prep Time:** 30 minutes (plus chilling)  
 **Cook Time:** 20 minutes  
 **Vibe:** Comforting, crispy, rich with a bright twist—perfect for late-night cravings.
@@ -10,29 +10,33 @@
 ## 🧾 Ingredients
 
 ### For the Filling
-- 200 g duck sausage (or ground duck/pork)
-- 2 tbsp duck fat or butter
-- 1 small leek, finely chopped
-- 1 clove garlic, minced
-- 2 tbsp flour
-- 250 ml beef or chicken broth
-- 1 tbsp yuzu marmalade
-- 1 tsp Dijon mustard
-- Salt and freshly ground black pepper, to taste
-- Fresh parsley, chopped (optional)
+
+* 400 g duck sausage (or ground duck/pork)
+* 4 tbsp duck fat or butter
+* 2 small leeks, finely chopped
+* 2 cloves garlic, minced
+* 4 tbsp flour
+* 500 ml beef or chicken broth
+* 2 tbsp yuzu marmalade
+* 2 tsp Dijon mustard
+* Salt and freshly ground black pepper
+* Fresh parsley (optional)
 
 ### For the Breading
-- 120 g flour
-- 2 eggs, beaten
-- 100–150 g panko breadcrumbs
+
+* 240 g flour
+* 4 eggs, beaten
+* 200–300 g panko breadcrumbs
 
 ### For Frying
-- Duck fat or neutral oil (e.g. sunflower) for deep frying
+
+* Duck fat or neutral oil (e.g., sunflower) for deep frying
 
 ### For the Marmalade Mustard
-- 2 tbsp yuzu marmalade
-- 1 tbsp grainy mustard
-- 1 tsp apple cider vinegar
+
+* 4 tbsp yuzu marmalade
+* 2 tbsp grainy mustard
+* 2 tsp apple cider vinegar
 
 ---
 
