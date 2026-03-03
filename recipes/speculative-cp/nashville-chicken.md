@@ -53,17 +53,21 @@ For Serving
 ⸻
 
 Instructions
-	1.	Buttermilk Dip:
-Mix buttermilk, pepper, paprika, garlic powder, and cayenne. Dunk brined chicken, coat well.
-	2.	Flour Dredge:
-Combine all dry dredge ingredients in a big bowl. Add blitzed brioche croutons if you want extra crunch.
-	3.	Dredge Chicken:
-Remove chicken from buttermilk, let excess drip off. Coat thoroughly in flour mix, pressing in. Rest on a rack for at least 10 minutes to set the crust.
-	4.	Fry:
-Heat oil to 175°C. Fry chicken in batches, 8–12 minutes per piece, until golden and cooked through. Drain on a rack. Save some hot oil for the wash if you want extra flavor.
-	5.	Make the Ghost Butter Wash:
-Gently melt butter in a small saucepan (don’t brown it). Whisk in ghost pepper sauce—up to 1:1 ratio for full insanity. Add cayenne, brown sugar, paprika, garlic powder, and salt. Whisk until smooth and emulsified.
-	6.	Coat Chicken:
-While chicken is still hot, brush or spoon the butter/ghost pepper mixture all over. Get into every crunchy nook. Let it soak in.
-	7.	Serve:
-Stack chicken on white bread, layer with pickles. Brace yourself.
+
+* Buttermilk Dip:
+  Mix buttermilk, pepper, paprika, garlic powder, and cayenne. Dunk brined chicken, coat well.
+
+* Flour Dredge:
+  Combine all dry dredge ingredients in a big bowl. Add blitzed brioche croutons if you want extra crunch.
+
+* Dredge Chicken:
+R  emove chicken from buttermilk, let excess drip off. Coat thoroughly in flour mix, pressing in. Rest on a rack for at least 10 minutes to set the crust.
+
+* Fry:
+  Heat oil to 175°C. Fry chicken in batches, 8–12 minutes per piece, until golden and cooked through. Drain on a rack. Save some hot oil for the wash if you want extra flavor.
+
+* Make the Ghost Butter Wash:
+  Gently melt butter in a small saucepan (don’t brown it). Whisk in ghost pepper sauce—up to 1:1 ratio for full insanity. Add cayenne, brown sugar, paprika, garlic powder, and salt. Whisk until smooth and emulsified.
+
+* Coat Chicken:
+  While chicken is still hot, brush or spoon the butter/ghost pepper mixture all over. Get into every crunchy nook. Let it soak in.
