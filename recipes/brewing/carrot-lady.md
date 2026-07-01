@@ -35,3 +35,7 @@ An austere, dry, clear, and herbal ferment. Built like a chardonnay that got los
 - ABV estimated ~12–14%.
 - Absolutely no back sweetening—intended to confront, not coddle.
 - Best enjoyed in a heavy ceramic mug while judging someone's soul.
+
+---
+
+*Machine twin: [`carrot-lady.yaml`](https://github.com/janearc/i54n/blob/main/i54n-data/recipes/carrot-lady.yaml) in [i54n](https://github.com/janearc/i54n) — the same ferment rendered as a bioreactor control object.*
