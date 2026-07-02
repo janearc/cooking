@@ -29,3 +29,7 @@ spicy ginger wines at about 30% abv.
 if the must stalls mid-way you may need to introduce some oxygenated distilled water,
 and you may need to add a little fermaid as well, depending. you may also want to keep
 this around 79F. this is a very difficult environment for yeast.
+
+---
+
+*Machine twin: the [JP7 osmolocking method](https://github.com/janearc/i54n/blob/main/patents/01_JP7_Method.md) in [i54n](https://github.com/janearc/i54n) — this ginger applejack is where "the stabilizer is the osmolality" became a named method.*
